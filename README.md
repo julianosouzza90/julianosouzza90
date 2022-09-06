@@ -1,10 +1,10 @@
 
-# Olá mundo! 👋 
+# Olá! 👋 
 
 <div>
   <p>Me chamo <b>Juliano</b>, atualmente estou cursando análise e desenvolvimento de sistemas pela Unicesumar.</p>
-  <p>Alguns meses atrás reservei meu assento no foguete da <b>Rocketseat</b>🚀 e em junho de 2022 finalmente pude embarcar.<p>
-  <p>Está sendo uma viagem emocionante para mim, pois estou aprendendo muito sobre tecnologias que eu já conhecia mas não tinha prática, e também sobre   outras que eu nem sabia da existência. Finalmente estou indo para o próximo nível.</p>
+  <p>No momento estou estudando para estar capacitado a preencher uma dessas tao faladas vagas em aberto no mercado.</p>
+  <p>Tenho muita dedicação e todos os dias estou em contato com códigos, para aprimorar e adquirir cada vez mais conhecimentos.</p>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianosouzza90)](https://github.com/anuraghazra/github-readme-stats)]
