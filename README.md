@@ -10,9 +10,7 @@
 <h2>Minhas tecs</h2>
 
 <p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,angular,typescript,javascript,html,css" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,java,spring,angular,typescript,javascript,html,css" />
 </p>
 
 <hr>
